@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "opdrachht rest api/1.0.0": {
+        "runtime": {
+          "opdrachht rest api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "opdrachht rest api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

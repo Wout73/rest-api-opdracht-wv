@@ -1,0 +1,15 @@
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\obj\Debug\net10.0\opdrachht rest api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\obj\Debug\net10.0\opdrachht rest api.AssemblyInfoInputs.cache
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\obj\Debug\net10.0\opdrachht rest api.AssemblyInfo.cs
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\obj\Debug\net10.0\opdrachht rest api.csproj.CoreCompileInputs.cache
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\bin\Debug\net10.0\opdrachht rest api.exe
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\bin\Debug\net10.0\opdrachht rest api.deps.json
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\bin\Debug\net10.0\opdrachht rest api.runtimeconfig.json
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\bin\Debug\net10.0\opdrachht rest api.dll
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\bin\Debug\net10.0\opdrachht rest api.pdb
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\obj\Debug\net10.0\opdrachht rest api.dll
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\obj\Debug\net10.0\refint\opdrachht rest api.dll
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\obj\Debug\net10.0\opdrachht rest api.pdb
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\obj\Debug\net10.0\opdrachht rest api.genruntimeconfig.cache
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\obj\Debug\net10.0\ref\opdrachht rest api.dll
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\rest api\opdrachht rest api\opdrachht rest api\obj\Debug\net10.0\opdrachh.365348FC.Up2Date
